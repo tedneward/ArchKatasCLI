@@ -3,7 +3,9 @@ A command-line client for obtaining an Architectural Kata
 
 ## Usage
 `git clone https://github.com/tedneward/ArchKatasCLI`
+
 `npm install`
+
 `node index.js`
 
 And it should return something like:
